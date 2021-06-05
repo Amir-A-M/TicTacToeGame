@@ -1,8 +1,3 @@
-//  Tic Tac Toe game with alpha beta algorithm
-
-//  هوش مصنوعی (جلسه نوزدهم) - جستجوی رقابتی و هرس آلفا-بتا :     https://youtu.be/RZxyAAwD41o
-
-
 const restart = document.getElementById('game:restart'),
     winningConditions = [
         [0, 1, 2],
