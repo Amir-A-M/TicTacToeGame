@@ -1,7 +1,7 @@
 # TicTacToeGame
 A Tic Tac Toe game with alpha beta algorithm. and two player mode
 
+[Demo](https://codepen.io/mr_mousavi/pen/NWjpRqm)
 
-هوش مصنوعی (جلسه نوزدهم) - جستجوی رقابتی و هرس آلفا-بتا :     https://youtu.be/RZxyAAwD41o
 
-![Screenshot 2021-06-05 092722](https://user-images.githubusercontent.com/60928821/120880701-1248b380-c5e1-11eb-9a21-206851f75467.png)
+![TicTacToeGame](https://user-images.githubusercontent.com/60928821/125741654-6814ffa3-8b6b-4aec-9b2f-60f6adb72eb6.png)
